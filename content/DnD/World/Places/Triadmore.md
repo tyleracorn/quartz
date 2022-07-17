@@ -1,5 +1,5 @@
 ---
-type: place
+type: city
 world: "Sword Coast"
 tags: Triadmore
 ---
