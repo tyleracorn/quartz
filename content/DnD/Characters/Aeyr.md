@@ -1,5 +1,5 @@
 ---
-title: Aeyr
+title: "Aeyr"
 type: Character
 world: "Sword Coast"
 ---

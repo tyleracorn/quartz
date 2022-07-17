@@ -1,4 +1,5 @@
 ---
+title: "005-20220706-Goblin_Cave_Fight"
 type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia, jedice, sildar, clarg

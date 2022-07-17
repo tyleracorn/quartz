@@ -1,5 +1,5 @@
 ---
-title: Fiona
+title: "Fiona"
 type: Character
 world: "Sword Coast"
 ---

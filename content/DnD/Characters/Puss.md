@@ -1,5 +1,5 @@
 ---
-title: Puss
+title: "Puss"
 type: Character
 world: "Sword Coast"
 ---

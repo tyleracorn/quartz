@@ -1,5 +1,5 @@
 ---
-title: Farquad
+title: "Farquad"
 type: Character
 world: "Sword Coast"
 ---

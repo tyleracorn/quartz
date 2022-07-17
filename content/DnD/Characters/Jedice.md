@@ -1,5 +1,5 @@
 ---
-title: Jedice
+title: "Jedice"
 type: Character
 world: "Sword Coast"
 ---
