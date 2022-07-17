@@ -10,7 +10,7 @@ title: Outline
 
 [003-20220608-After_Ambush](dnd/Sessions/003-20220608-After_Ambush.md)
 
-[004-20220622-Goblin_Cave](dnd/essions/004-20220622-Goblin_Cave.md)
+[004-20220622-Goblin_Cave](dnd/Sessions/004-20220622-Goblin_Cave.md)
 
 [005-20220706-Golbin_Cave_Fight](dnd/Sessions/005-20220706-Goblin_Cave_Fight.md)
 
