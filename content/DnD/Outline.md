@@ -12,7 +12,7 @@ title: Outline
 
 [004-20220622-Goblin_Cave](dnd/essions/004-20220622-Goblin_Cave.md)
 
-[005-20220706-Golbin_Cave_Fight](dnd/Sessions/005-20220706-Golbin_Cave_Fight.md)
+[005-20220706-Golbin_Cave_Fight](dnd/Sessions/005-20220706-Goblin_Cave_Fight.md)
 
 [006-20220713-phandalin](dnd/Sessions/006-20220713-phandalin.md)
 
