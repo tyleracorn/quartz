@@ -1,8 +1,9 @@
 ---
+title: <% tp.file.title %>
 type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia
-date: <% tp.file.creation_date("Do MMMM YYYY") %>
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags: TBD
 ---
 
