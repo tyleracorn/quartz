@@ -16,6 +16,7 @@ title: Outline
 
 [006-20220713-phandalin](dnd/Sessions/006-20220713-phandalin.md)
 
+[007-20220718-Goblin_Bard_Rescue](DnD/Sessions/007-20220718-Goblin_Bard_Rescue)
 
 ## World
 
