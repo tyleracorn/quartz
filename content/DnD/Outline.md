@@ -1,24 +1,8 @@
 ---
-title: Outline
+title: "The Sword Coast North"
 ---
 
-## Sesssions
-
-[001-20220518-Intro](DnD/Sessions/001-20220518-Intro.md)
-
-[002-20220525-Island](dnd/Sessions/002-20220525-Island.md)
-
-[003-20220608-After_Ambush](dnd/Sessions/003-20220608-After_Ambush.md)
-
-[004-20220622-Goblin_Cave](dnd/Sessions/004-20220622-Goblin_Cave.md)
-
-[005-20220706-Golbin_Cave_Fight](dnd/Sessions/005-20220706-Goblin_Cave_Fight.md)
-
-[006-20220713-phandalin](dnd/Sessions/006-20220713-phandalin.md)
-
-[007-20220718-Goblin_Bard_Rescue](DnD/Sessions/007-20220718-Goblin_Bard_Rescue)
-
-## World
+The Sword Coast North is comprised a rough landscape of rugged hills, precarious mountain ranges and dense forests, it was home to several like-minded towns and cities. The most prominent of these cities banded together with nearby allies to form the [[World/Groups/Lords_Alliance]] which united much of the region. On the south end of the coast is [[DnD/World/Places/balders_gate]] which is haven for smuggling and character's of questionable character. On the north end of the coast is Neverwinter which we aren't supposed to try to go to.
 
 ### Groups
 
@@ -26,13 +10,19 @@ title: Outline
 
 ### People
 
-[Clarg](dnd/world/people/clarg)
+*The Good*
 
-[Gundrin Rockseaker](dnd/world/people/gundrin_rockseaker)
+[[DnD/World/People/Gundrin]]
 
-[Sildar](dnd/world/people/sildar)
+[[DnD/World/People/Sorin]]
 
-[Yesik](dnd/world/people/yesik)
+[[DnD/World/People/Sildar]]
+
+*The Bad*
+
+[[DnD/World/People/Yesik]]
+
+[[DnD/World/People/Clarg]]
 
 
 ### Places
@@ -49,16 +39,33 @@ title: Outline
 
 [Wave Echo Cave](dnd/world/places/wave_echo_cave)
 
+
+## Sesssions
+
+[[DnD/Sessions/001-20220518-Intro]]
+
+[[DnD/Sessions/002-20220525-Island]]
+
+[[DnD/Sessions/003-20220608-After_Ambush]]
+
+[[DnD/Sessions/004-20220622-Goblin_Cave]]
+
+[[DnD/Sessions/005-20220706-Goblin_Cave_Fight]]
+
+[[DnD/Sessions/006-20220713-phandalin]]
+
+[[DnD/Sessions/007-20220718-Goblin_Bard_Rescue]]
+
 ## Characters
 
-[Aeyr](dnd/characters/aeyr.md)
+[[DnD/Characters/Aeyr]]
 
-[Farquad](dnd/characters/Farquad.md)
+[[DnD/Characters/Farquad]]
 
-[Fiona](dnd/characters/Fiona.md)
+[[DnD/Characters/Fiona]]
 
-[Jedice](dnd/characters/Jedice.md)
+[[DnD/Characters/Jedice]]
 
-[Puss](dnd/characters/Puss.md)
+[[DnD/Characters/Puss]]
 
-[Tia](dnd/characters/Tia.md)
+[[DnD/Characters/Tia]]

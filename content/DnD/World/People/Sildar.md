@@ -1,7 +1,10 @@
 ---
+title: "Sildar"
 type: people
 world: "Sword Coast"
-tags: sildar
+tags: 
+- sildar
+- human
 ---
 
 # Meta
@@ -12,7 +15,7 @@ Job: Lords Aliance
 
 Boss:
 
-Companion: [[Gundrin_Rockseaker]] 
+Companion: [[DnD/World/People/Gundrin]] 
 
 Status: Alive
 

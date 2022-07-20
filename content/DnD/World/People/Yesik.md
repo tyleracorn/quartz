@@ -1,7 +1,10 @@
 ---
+title: "Yesik"
 type: people
 world: "Sword Coast"
-tags: yesik
+tags: 
+- yesik
+- Goblin
 ---
 
 # Meta

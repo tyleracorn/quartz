@@ -1,7 +1,9 @@
 ---
+title: "Cragma"
 type: place
 world: "Sword Coast"
-tags: cragma
+tags: 
+- cragma
 ---
 
 ## Meta

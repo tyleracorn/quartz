@@ -4,7 +4,13 @@ type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia, jedice, sildar, clarg
 date: 2022-07-06
-tags: sildar, goblin_cave, clarg, cragma, jedice
+tags: 
+- sildar
+- goblin_cave
+- clarg
+- cragma
+- jedice
+- phandalin
 ---
 
 ## Summary
@@ -19,23 +25,27 @@ Start of the fight from last session
 
 Current state is full hp (11)
 
-
+### Main Cavern Final Fight
 * The 3 goblins are dead. Clarg is left but hasn't quite attacked. We don't see the wolf anymore.
 	* We hear a wolf coming from behind us.
 	* Clarg pretty much knocks me out with one hit.
 	* Puss finds a human tied up [[Jedice]]
-	* Fiona kills Clarg
-* We search
+	* Fiona knocks out Clarg
+
+### Post Fight Search and Death of Clarg
+* We search the area
 	*  I find a letter - orders passed down
 	* We search the crates and find medical supplies and clothing
-	* Near the thrown we find a treasure chest
+	* Near the throne we find a treasure chest
 		* 700 copper 
 		* 110 silver
 		* 60 gold
 * We question Clarg
-	* I offer a clean death for information and he says that all he can give us for a clean death is [[Cragma]] 
+	* I offer a clean death for information and he says that all he can give us for a clean death is name [[Cragma]] 
 		* I give him a clean death
-* We take a long rest 
+
+### Leaving the cave and heading to Phandalin
+* We head out of the cave and take a long rest nect to the river
 * We decide to head to Phandolin
 	* Sildar leaves us to report to the [[DnD/World/Groups/Lords_Alliance]]
 	* We get a room at the #stone_hill

@@ -1,8 +1,10 @@
 ---
-title: Ilk
+title: "Ilk"
 type: people
 world: "Sword Coast"
-tags: Goblin, Ilk
+tags: 
+- Goblin
+- ilk
 ---
 # Meta
 Race: Goblin

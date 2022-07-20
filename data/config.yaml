@@ -8,7 +8,7 @@ enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: false
 GitHubLink: https://github.com/tyleracorn/quartz/tree/hugo/content
 description:
@@ -20,3 +20,12 @@ links:
     link: https://twitter.com/tyler_acorn
   - link_name: Github
     link: https://github.com/tyleracorn
+related:
+  includeNewer: false
+  indices:
+  - name: categories
+    weight: 100
+  - name: date
+    weight: 20
+  threshold: 80
+  toLower: false

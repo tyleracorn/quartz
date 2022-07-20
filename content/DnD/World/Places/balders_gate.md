@@ -1,7 +1,9 @@
 ---
+title: "Balder's Gate"
 type: city
 world: "Sword Coast"
-tags: balders_gate
+tags: 
+- balders_gate
 ---
 
 ## Meta

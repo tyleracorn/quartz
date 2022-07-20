@@ -1,7 +1,9 @@
 ---
+title: "Neverwinter"
 type: city
 world: "Sword Coast"
-tags: neverwinter
+tags: 
+- neverwinter
 ---
 
 ## Meta

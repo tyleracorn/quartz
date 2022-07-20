@@ -1,7 +1,12 @@
 ---
+title: "Gundrin Rockseaker"
 type: people
 world: "Sword Coast"
-tags: gundrin
+tags: 
+- gundrin
+- dwarf
+- sorin
+- sildar
 ---
 # Meta
 Race: Dwarf

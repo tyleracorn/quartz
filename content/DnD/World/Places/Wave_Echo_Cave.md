@@ -1,7 +1,10 @@
 ---
+title: "Wave Echo Cave"
 type: place
 world: "Sword Coast"
-tags: wave_echo_cave
+tags: 
+- wave_echo_cave
+- forge_of_spells
 ---
 
 Originally map was carried by #Gundrin . 
