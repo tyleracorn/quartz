@@ -14,7 +14,7 @@ tags:
 
 Here's a collection of links for different resources I find useful or interesting in relation to climbing knowledge and skills.
 
-# Safety 
+## Safety 
 
 [Strength Reduction of textile materials by knots | EDELRID](https://edelrid.com/int-en/knowledge/knowledge-base/strength-reduction-of-textile-materials-by-knots)
 
@@ -34,7 +34,7 @@ Here's a collection of links for different resources I find useful or interestin
 
 
 
-# Gear Inspection and Care
+## Gear Inspection and Care
 [Inspection, maintenance and repair of carabiners | EDELRID](https://edelrid.com/int-en/knowledge/knowledge-base/inspection-maintenance-and-repair-of-carabiners)
 
 [Looking After Your Climbing Rope | EDELRID](https://edelrid.com/int-en/knowledge/knowledge-base/looking-after-your-climbing-rope)
