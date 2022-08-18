@@ -37,6 +37,9 @@ seems to be the hangout of the #knights_of_the_void
 
 there's a goblin musician that seems to be there against his will
 
+### hidden_tunnel
+We find a hidden tunnel behind a fireplace in the back room of the tavern. This leads to where the goblin [[DnD/World/People/Ilk]] was locked up in, some storage room, and a room with some sarcophogus (with images of flaming dragons'  rising up)
+
 ## Merchants
 Merchant: #branthems
 

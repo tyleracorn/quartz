@@ -8,6 +8,7 @@ tags:
 - Phandalin
 - hidden_giants_toe
 - ilk
+- hidden_tunnel
 ---
 
 ## Session Summary

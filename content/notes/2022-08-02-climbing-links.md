@@ -1,5 +1,5 @@
 ---
-title: "2022-08-02-climbing-links"
+title: "Climbing Knowledge Resources"
 type: post
 excerpt: "Collection of Links for Climbing Resources"
 date: 2022-08-01

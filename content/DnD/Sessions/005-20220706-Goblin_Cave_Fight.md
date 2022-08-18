@@ -11,6 +11,7 @@ tags:
 - cragma
 - jedice
 - phandalin
+- long_rest
 ---
 
 ## Summary
@@ -50,3 +51,4 @@ Current state is full hp (11)
 	* Sildar leaves us to report to the [[DnD/World/Groups/Lords_Alliance]]
 	* We get a room at the #stone_hill
 		*  I spend some time working on mushroom poison and mushroom psychodelics
+		* #Long_Rest
