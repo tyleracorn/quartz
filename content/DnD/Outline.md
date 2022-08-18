@@ -56,6 +56,8 @@ The Sword Coast North is comprised a rough landscape of rugged hills, precarious
 
 [[DnD/Sessions/007-20220718-Goblin_Bard_Rescue]]
 
+[[DnD/Sessions/008-20220817-Post_Goblin_Save]]
+
 ## Characters
 
 [[DnD/Characters/Aeyr]]
