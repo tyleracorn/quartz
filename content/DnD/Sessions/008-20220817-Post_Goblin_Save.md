@@ -34,10 +34,10 @@ Starting after we free the Goblin [[DnD/World/People/Ilk]].
 	* Aery investigates the supplies and finds general supplies like rope and rations, etc.
 	* Faquad finds the outline of a secret door
 		* Fiona determines that there is magic (from the school of abjuration) associated with the secret door. 
-		* Fiona investigates and pieces together words in Draconic that say "the Lords name 3 times"
+		* Fiona investigates and pieces together words in Draconic that say **"the Lords name 3 times"**
 		* Puss realizes that the markings seem similar to what's on the sarcophugus
 		* Fiona goes to investigate the sarcophugus
-			* They say "We die so that you can rise"
+			* They say **"We die so that you can rise"**
 			* This isn't enough info to figure out yet who the masters are
 	* We decide we need to take out the guards so we get most everyone across
 	* We get everyone across then make some noise and draw the guards in
