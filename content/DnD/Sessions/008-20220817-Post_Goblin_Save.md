@@ -11,6 +11,8 @@ tags:
 ---
 
 ## Session Summary
+After saving [[DnD/World/People/Ilk]] we proceed to investigate the underground cave network. We find a hidden door that looks like it may have been there before the current occupants of the cave took over for their own nefarious dealings. The key to unlocking the door seems associated with the 3 sarcophegous that we find with a flame dragon emblem on them.  
+We also find three guards at what looks to be the normal entrance to the cave, which we decide to take out. The session ends on initiation
 
 ## Recap of Last Session
 
