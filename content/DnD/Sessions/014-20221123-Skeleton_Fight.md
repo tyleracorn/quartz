@@ -9,6 +9,8 @@ tags: Marys, Skeleton
 
 ## Session Summary
 
+We fight the skeleton and destroy it after lifting it into the air where it couldn't really attack us. We learn a little more about Mary's. She apparently sits on the town council due to being a large business owner.  Marys is also the leader of the knights of the void. However, the knights were hired to deal with the goblin raids. The knights of the void are made up of the downtrodden and societies rejects.
+
 ## Recap of Last Session
 
 We drag the lady into town. Hide out in the abandonded building near the bar. The skeleton comes out of the bar and can feel us and comes straight towards us. We end with Fiona Levitating the skeleton
