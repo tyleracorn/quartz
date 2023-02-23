@@ -2,12 +2,14 @@
 title: 016-20221221-DealWithMarys
 type: sesion
 world: "Sword Coast"
-characters: Aeyr, Farquad, Fiona, Puss, Tia
+characters: Aeyr, Farquad, Fiona, Puss, Tia, Marys
 date: 2022-12-21
 tags: TBD
 ---
 
 ## Session Summary
+
+We make a deal with Marys to deal with the Black spyder group
 
 ## Recap of Last Session
 
