@@ -37,4 +37,4 @@ We fought the mother grub. She couldn't quite reach us do to narrow spots in the
 * When we get near the cave in we can hear something large moving around on the other side of the cavein
 * We take a long rest at the lake
 	* Again we have the same horrible nightmare
-	* This time however, the nightmares affect us so much that we only get half the health and speel slots back that we should have
+	* This time however, the nightmares affect us so much that we only get half the health and spell slots back that we should have
