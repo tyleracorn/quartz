@@ -43,4 +43,5 @@ tags:
 * Long Rest
 * We chat with the inn keaper
 	* there is talk about the goblins being holed up in some long lost dwarven place called #cragma 
+* We go around and pick up our orders from the seamstress and the magic shop
 * 

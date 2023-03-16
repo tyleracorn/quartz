@@ -22,8 +22,6 @@ Outpost for the [[DnD/World/Groups/Lords_Alliance]]
 # Map
 ![Map of Phandalin](notes/images/Dnd/Phandalin_Scotty.jpg)
 
-![[notes/images/Dnd/Phandalin_Scotty.png]]
-
 ## Taverns
 ## stone_hill
 name: #stone_hill
