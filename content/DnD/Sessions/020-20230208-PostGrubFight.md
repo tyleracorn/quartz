@@ -4,7 +4,8 @@ type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia
 date: 2023-02-08
-tags: TBD
+tags: 
+- lyzas_tears
 ---
 
 ## Session Summary
