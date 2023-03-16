@@ -20,7 +20,7 @@ Hasn't been fortefied yet
 Outpost for the [[DnD/World/Groups/Lords_Alliance]]
 
 # Map
-![[notes/images/Dnd/Phandalin_scotty.jpg]]
+![Map of Phandalin](notes/images/Dnd/Phandalin_scotty.jpg)
 
 ## Taverns
 ## stone_hill
