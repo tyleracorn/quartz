@@ -4,7 +4,9 @@ type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia
 date: 2022-10-12
-tags: TBD
+tags: 
+- Marys
+- Church
 ---
 
 ## Session Summary
