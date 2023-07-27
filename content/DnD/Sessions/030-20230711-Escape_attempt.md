@@ -16,7 +16,7 @@ tags:
 
 ## Session Summary
 
-After finding our gear, we can't help but head back and check out the hidden passage. We eventually find a room that looks like the #black_spyder main office and sleeping area. We steal some stuff and find some information on what might be happening. As we are leaving however we are attacked by
+After finding our gear, we can't help but head back and check out the hidden passage. We eventually find a room that looks like the #black_spyder main office and sleeping area. We steal some stuff and find some information on what might be happening. As we are leaving however, we are attacked by #mavehous . She sounds the alarm and starts running. We are battling/chasing after her. We are trying to take her out and then go back for Farquad.
 
 ## Recap of Last Session
 
