@@ -4,7 +4,10 @@ type: sesion
 world: "Sword Coast"
 characters: Aeyr, Farquad, Fiona, Puss, Tia, Marys, Skeleton
 date: 2022-11-23
-tags: Marys, Skeleton
+tags: 
+ - Marys
+ - Skeleton
+ - battle
 ---
 
 ## Session Summary

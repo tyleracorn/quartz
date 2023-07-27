@@ -7,6 +7,7 @@ date: 2023-04-05
 tags: 
 - miners_guild
 - loot
+- battle
 ---
 
 ## Session Summary

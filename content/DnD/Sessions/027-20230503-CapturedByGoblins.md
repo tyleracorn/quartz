@@ -9,11 +9,13 @@ tags:
 - goblins
 - hob_goblins
 - marys
+- mavehous
 ---
 
 ## Session Summary
 
 ## Recap of Last Session
+
 We decided to try to take a long rest. The goblins trick the person on watch and attack us, capturing us all.  In the process I get knocked out shot full of arrows. We are captured and magical handcuffs that cut us off from using any magic
 
 ## Log
@@ -55,7 +57,7 @@ We decided to try to take a long rest. The goblins trick the person on watch and
 		* When the person turns we see that one side of the face is the spitting image of #Marys but the other half of the face is burned horribly
 		* She gets mad that Ilk is with us saying "why is their kind here" and gets some guards to come and drag him away.
 			* Aeyr trys to grab Ilk but she gets back handed
-		* She says "Mavehous" fix this.
+		* She says #mavehous fix this.
 			* A tiefling seems to appear out of nowhere and magically stablizes Aery and then poors a healing potion down their throat
 		* She Tells Argov. "No times for games. As long as her pieces off of the board. We only need 1 more gem, Either put them into the games or make them diggers it doesn't matter. We have 5 days before we hit the last site. It doesn't matter."
 	* Argov leads us away. We eventually down some stairs into a dark, wet area. Argov is grumbling to himself and he sounds unsure of himself.
