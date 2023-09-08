@@ -41,4 +41,5 @@ After finding our gear, we can't help but head back and check out the hidden pas
 	- We go back to the ornate doors. There are 3 holes and some runes. Fiona casts comprehend languages
 		- The runes say  "Thomumlir Mountainspine grants you safe journey."
 	- We stick 3 hands in and find something and twist. Our hands are locked in place. The outline of the king and his hammer is eliminated his name flashes 3 times.
+	- 
 

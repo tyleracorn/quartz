@@ -104,6 +104,8 @@ The Sword Coast North is comprised a rough landscape of rugged hills, precarious
 
 [[DnD/Sessions/031-20230726-Alarm_during_escape|031-20230726-Alarm_during_escape]]
 
+[[DnD/Sessions/032-20230907-UndergroundPuzzles|032-20230907-UndergroundPuzzles]]
+
 
 ## Characters
 

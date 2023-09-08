@@ -19,5 +19,19 @@ Tia comes from an ancient clan of assasins from a small village in a hidden vall
 - Cunning action
 - Sneak Attack
 
+# Inventory
+
+* A tiny leather pouch that smells strongly of spices (Tia)
+* An average silver hip flask  (Tia)
+	* Identified - Poisoner's Flask - Anything left inside of it for at least 5 minutes becomes poisonous
+* * A vial with a stained label. Contains a viscous, purple liquid (2)  (Tia)
+	* Indentified - Sorcerer's bain - magic suppressent - lasts for 4 hours
+* Spherical bottle with a silvery dark blue liquid, speckled with little shining stars (3)  (Tia)
+	*  Indentified - Potion of rest - gives the user the benefit of a long rest without sleeping
+* Potions of health (3)  
+* A small vial with a bright green liquid  (Tia)
+	* Indentified - Mind reading - gain the affects of detect thoughts - 1 hour
+* a sigil which 3 times a day I can raise the sigil and cast a bright light causing 3d10 damage to all within 30 feet of me. All plants within range grow faster
+
 
 
