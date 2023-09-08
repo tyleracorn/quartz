@@ -88,6 +88,23 @@ The Sword Coast North is comprised a rough landscape of rugged hills, precarious
 
 [[DnD/Sessions/023-20230315-EscapingTheCave]]
 
+[[DnD/Sessions/024-20230329-SearchingForGoblins|024-20230329-SearchingForGoblins]]
+
+[[DnD/Sessions/025-20230405-FightWithGuild|025-20230405-FightWithGuild]]
+
+[[DnD/Sessions/026-20230426-PostGuildFight|026-20230426-PostGuildFight]]
+
+[[DnD/Sessions/027-20230503-CapturedByGoblins|027-20230503-CapturedByGoblins]]
+
+[[DnD/Sessions/028-20230511-PitFightWithGundrin|028-20230511-PitFightWithGundrin]]
+
+[[DnD/Sessions/029-20230705-Escape_maybe|029-20230705-Escape_maybe]]
+
+[[DnD/Sessions/030-20230711-Escape_attempt|030-20230711-Escape_attempt]]
+
+[[DnD/Sessions/031-20230726-Alarm_during_escape|031-20230726-Alarm_during_escape]]
+
+
 ## Characters
 
 [[DnD/Characters/Aeyr]]
