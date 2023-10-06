@@ -1,13 +1,13 @@
 ---
 title: 032-20230907-UndergroundPuzzles
 type: sesion
-world: "Sword Coast"
+world: Sword Coast
 characters: Aeyr, Farquad, Fiona, Puss, Tia
 date: 2023-09-07
-tags: 
-- long rest
-- cragma
-- forge_of_spells
+tags:
+  - cragma
+  - forge_of_spells
+  - long_rest
 ---
 
 ## Session Summary
