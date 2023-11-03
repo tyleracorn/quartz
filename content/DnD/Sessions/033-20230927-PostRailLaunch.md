@@ -1,11 +1,12 @@
 ---
 title: 033-20230927-PostRailLaunch
 type: sesion
-world: "Sword Coast"
+world: Sword Coast
 characters: Aeyr, Farquad, Fiona, Puss, Tia
 date: 2023-09-27
-tags: 
-- TBD
+tags:
+  - long_rest
+  - drugged
 ---
 
 ## Session Summary
@@ -19,7 +20,7 @@ tags:
 - we start foraging as we are trying to find our way out of the forest
 - We continue in the direction where the rail tracks was following around the mountain
 - we don't really feel like we are finding our way out
-- Airy turns into a tree, then chats with the trees around us. 
+- Aery turns into a tree, then chats with the trees around us. 
 	- They mention another 3 groups that have intruded on the trees. One of the groups they seem apprehensive about. the other 2 are younger and they are unsure about them.
 	- The other groups are about 2 days away. 
 - We decide to go and try to find the other group
