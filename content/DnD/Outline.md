@@ -110,6 +110,13 @@ The Sword Coast North is comprised a rough landscape of rugged hills, precarious
 
 [[DnD/Sessions/034-20231005-DruggedOutOfMyMind|034-20231005-DruggedOutOfMyMind]]
 
+[[DnD/Sessions/035-20231102-DruggedFriendsFighting|035-20231102-DruggedFriendsFighting]]
+
+[[DnD/Sessions/036-20231108-DruggedFriendsFighting-Continued|036-20231108-DruggedFriendsFighting-Continued]]
+
+[[DnD/Sessions/037-20231122-ButcheryAtCragma|037-20231122-ButcheryAtCragma]]
+
+[[DnD/Sessions/038-20231129-PostCragmaFight|038-20231129-PostCragmaFight]]
 
 
 ## Characters

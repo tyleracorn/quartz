@@ -2,15 +2,16 @@
 title: 034-20231005-DruggedOutOfMyMind
 type: sesion
 world: Sword Coast
-characters: Aeyr, Fiona, Puss, Tia, Felicity, Mer, Harkess
+characters: Aeyr, Fiona, Puss, Tia, Felicity, Harkess
 date: 2023-10-05
 tags:
   - drugged
+  - trees
 ---
 
 ## Session Summary
 
-We all get drugged then make friends with Felicity as well as rock gnome and their goat friend/companion. After chatting and starting to get to know Felicity we are interrupted by a group that are looking for Felicity. He seems like a nice enough fellow and this new group we aren't really sure about. So like usually it looks like we'll be getting into a fight with them. 
+We all get drugged then make friends with Felicity as well as rock gnome and their goat friend/companion. After chatting and starting to get to know Felicity we are interrupted by a group that are looking for Felicity. I hide before they show up since we aren't sure who it might be. He seems like a nice enough fellow and this new group we aren't really sure about. So like usually it looks like we'll be getting into a fight with them. 
 ## Recap of Last Session
 
 ## Log
@@ -33,7 +34,7 @@ Nothing is wrong, but everything around us is vibrant. The quiet forest has come
 - we hear some noise. We get ready
 - I hide near the side of the woods where the noise is coming from and I am super well hidden
 - 4 shapes step out
-	- 1 Drow
+	- 1 Drows
 	- 2 kobolds (1 red, 1 blue)
 	- 1 Tiefling
 - They in a blue and black color scheme that is coordinated, and it seems familiar
@@ -46,4 +47,4 @@ Nothing is wrong, but everything around us is vibrant. The quiet forest has come
 - The Main drow says enough talk and draws her bow. Her arrows don't look like standard arrows
 	- they are long, black, and have corkscrew tipped arrows dripping
 - I coat my dagger and shortsword with poison
-- Fiona uses his held action and tosses a firebolt at the drow
+- Fiona holds his action ready to toss firebolt if attacks happen

@@ -8,6 +8,7 @@ tags:
   - cragma
   - forge_of_spells
   - long_rest
+  - gundrin_note
 ---
 
 ## Session Summary
