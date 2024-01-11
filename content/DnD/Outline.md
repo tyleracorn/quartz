@@ -118,6 +118,7 @@ The Sword Coast North is comprised a rough landscape of rugged hills, precarious
 
 [[DnD/Sessions/038-20231129-PostCragmaFight|038-20231129-PostCragmaFight]]
 
+[[DnD/Sessions/039-20231206-DestroyedPhandalalin|039-20231206-DestroyedPhandalalin]]
 
 ## Characters
 
