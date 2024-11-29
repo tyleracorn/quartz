@@ -49,4 +49,5 @@ When we enter the tavern, there is a male halfing that calls us over and says he
 * We head to the latest mine that was attacked by goblins #lyzas_tears
 	* We notice that the goblin tracks come straight from the forested area and head straight to the mine entrance
 	* We head into the mine - It's unnaturally quiet
-	* 
+
+
