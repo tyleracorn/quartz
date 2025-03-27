@@ -2,10 +2,10 @@
 title: 050-20240829-doingsomething
 type: sesion
 world: Sword Coast
-characters: Aeyr, Fiona, Puss, Tia, Harkness
+characters: Aeyr, Fiona, Puss, Tia, Sashenstar
 date: 2024-08-29
 tags:
-  - TBD
+  - bloody_beach
 ---
 
 ## Session Summary

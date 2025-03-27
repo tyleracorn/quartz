@@ -20,7 +20,7 @@ Great, now that you have your Obsidian linked to your Quartz, let's fix some set
 1. Under Options > Files and Links, set the New link format to always use Absolute Path in Vault.
 2. Go to Settings > Files & Links > Turn "on" automatically update internal links.
 
-![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*
+![Obsidian Settings](web_posts/images/obsidian-settings.png)*Obsidian Settings*
 
 ## Templates
 Inserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.

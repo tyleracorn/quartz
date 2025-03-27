@@ -18,11 +18,11 @@ tags:
 We defeat [[Clarg]] and offer him a clean death for information. He says that the only name he will give us is [[Cragma]] which we don't know if it's a place or a person. We head to [[Phandalin]] and get a room at the stone_heaven ^summary
 
 ## Recap of Last Session
-![](004-20220622-Goblin_Cave##^summary)
+![](DnD/Sessions_Ep01/004-20220622-Goblin_Cave.md##^summary)
 
 ## Log
 Start of the fight from last session
-![](004-20220622-Goblin_Cave##^fight) 
+![](DnD/Sessions_Ep01/004-20220622-Goblin_Cave.md##^fight) 
 
 Current state is full hp (11)
 

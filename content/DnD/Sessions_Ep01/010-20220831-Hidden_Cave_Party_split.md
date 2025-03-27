@@ -19,7 +19,7 @@ Before the guards break through the door, I chase after Fiona and we both enter 
 
 ## Log
 
-![[notes/images/Dnd/chamber_of_tiamat.png]]
+![[web_posts/images/Dnd/chamber_of_tiamat.png]]
 * Fiona and I enter the coridor behind the secret door. It's darker than it should be. 
 	* It's hazy and darker than normal. almost like a mist
 	* We proceed (investigating for traps). We finally come to a large room

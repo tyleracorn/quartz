@@ -8,7 +8,7 @@ toc: True
 
 
 # Edmonton Census Insights by Neighbourhood
-![Census Dashboard](/notes/images/yeg_census_dashboard_preview.gif)
+![Census Dashboard](web_posts/images/yeg_census_dashboard_preview.gif)
 
 ## Project Goals
 

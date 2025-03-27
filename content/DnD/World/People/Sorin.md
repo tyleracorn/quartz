@@ -1,12 +1,12 @@
 ---
-title: "Sorin Winterhill"
+title: Sorin Winterhill
 type: people
-world: "Sword Coast"
-tags: 
-- sorin
-- bloddy_beach
-- gundrin_rockseaker
-- dwarf
+world: Sword Coast
+tags:
+  - sorin
+  - gundrin_rockseaker
+  - dwarf
+  - bloody_beach
 ---
 
 # Meta

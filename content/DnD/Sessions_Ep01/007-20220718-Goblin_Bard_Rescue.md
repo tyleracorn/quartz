@@ -14,7 +14,7 @@ tags:
 ## Session Summary
 
 ## Recap of Last Session
-[[DnD/Sessions/006-20220713-phandalin]]
+[[DnD/Sessions_Ep01/006-20220713-phandalin]]
 We do some shopping in [[Phandalin]] where we make friends with the shopkeepers of the oddities store #spelunkin .  Small group went to the #hidden_giants_toe  and decided to help save a goblin musician
 
 ## Log

@@ -18,7 +18,7 @@ Fiona and I meet back up with the rest of the group in a room at the top of a to
 
 ## Log
 
-![[notes/images/Dnd/abandoned_church.png]]
+![[web_posts/images/Dnd/abandoned_church.png]]
 * We re-barricade the door entering the "church"
 * Looking around we see a blood trail leading through the door going outside
 	* Fiona opens the door to check outside, and a crossbow bolt almost hit him.

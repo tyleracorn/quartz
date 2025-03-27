@@ -5,7 +5,7 @@ world: Sword Coast
 characters: Aeyr, Fiona, Puss, Tia, Harkness
 date: 2024-10-10
 tags:
-  - TBD
+  - sailing
 ---
 
 ## Session Summary

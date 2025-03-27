@@ -30,7 +30,7 @@ Here's a collection of links for different resources I find useful or interestin
 
 [Forces at work in a real fall - Petzl Canada](https://www.petzl.com/CA/en/Sport/Forces-at-work-in-a-real-fall?ActivityName=Multi-pitch-climbing)
 
-![Consequences of Equalization Angles in Anchors](notes/images/2022/Consequence_of_Angles.png)
+![Consequences of Equalization Angles in Anchors](web_posts/images/2022/Consequence_of_Angles.png)
 
 
 

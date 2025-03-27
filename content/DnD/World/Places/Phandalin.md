@@ -1,16 +1,15 @@
 ---
-title: "Phandalin"
+title: Phandalin
 type: city
-world: "Sword Coast"
-tags: 
-- Phandalin
-- hidden_giants_toa
-- stone_hill
-- branthems
-- darin_cottage
-- miners_exchange
-- spelunkin
-- marven
+world: Sword Coast
+tags:
+  - Phandalin
+  - stone_hill
+  - branthems
+  - darin_cottage
+  - miners_exchange
+  - spelunkin
+  - marven
 ---
 
 ## Meta
@@ -20,7 +19,7 @@ Hasn't been fortefied yet
 Outpost for the [[DnD/World/Groups/Lords_Alliance]]
 
 # Map
-![Map of Phandalin](notes/images/Dnd/Phandalin_Scotty.jpg)
+![Map of Phandalin](web_posts/images/Dnd/Phandalin_Scotty.jpg)
 
 ## Taverns
 ## stone_hill

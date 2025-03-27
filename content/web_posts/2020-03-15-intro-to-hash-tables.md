@@ -91,11 +91,11 @@ def compare_int_hash(intList, testInt):
 
 The above example is probably more like a *O(2N)* scale problem. So, now lets take a quick look at the performance of these two functions.
 
-![Loopy-De-Loop vs Hashing](/notes/images/loop_vs_hash.png)
+![Loopy-De-Loop vs Hashing](web_posts/images/loop_vs_hash.png)
 
 As you can see, the loopy-de-loop version very very quickly scales out of control. With just a list of 10,000 elements, worst case scenario, it'll take you roughly 53 seconds to test. However by using the hash table with the value you are wanting as the index key, you can test that same 10,000 element list in under a second (~0.01 s). Now just because it's dramatically different doesn't mean it's not scaling. There is an issue of scale here.
 
-![Hash scale](/notes/images/hash_scale.png)
+![Hash scale](web_posts/images/hash_scale.png)
 
 You can see that the hash table approach is still scaling. It's just more more of a linear increase instead of the exponential scaling of the nested loop.
 

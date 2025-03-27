@@ -2,10 +2,10 @@
 title: 051-20240923-SearchForSorin
 type: sesion
 world: Sword Coast
-characters: Aeyr, Fiona, Puss, Tia, Harkness
+characters: Aeyr, Fiona, Puss, Tia, Sashenstar
 date: 2024-09-23
 tags:
-  - TBD
+  - bloody_beach
 ---
 
 ## Session Summary

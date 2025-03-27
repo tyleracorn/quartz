@@ -19,7 +19,7 @@ We realize that Puss is no longer with us. We eventually find him back at the we
 	- We surprise enough that we end up bluffing our way past the goblins.
 	- There is a door that we proceed through
 - We see an image of the dwarves constructed a weapon like this below to beat the dragons
-	- ![[notes/images/Pasted image 20240125202923.png]]
+	- ![[web_posts/images/Pasted image 20240125202923.png]]
 - We find some machinery. We get it working. It makes a lot of noise. Some guards start coming
 - 8 guards come walking in. They are dressed a little like the patrons of the giants toe when we first met #Marys but they now have chain mail armour on over their tunics
 	- I recognize some of them from the bar

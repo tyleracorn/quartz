@@ -88,7 +88,7 @@ I am traveling on a boat with 4 other passangers when the boat shipwrecks and th
 	* They see us and attack Puss and Tia try to withdraw
 
 tart of the fight from last session
-![](004-20220622-Goblin_Cave##^fight) 
+![](DnD/Sessions_Ep01/004-20220622-Goblin_Cave.md##^fight) 
 
 Current state is full hp (11)
 

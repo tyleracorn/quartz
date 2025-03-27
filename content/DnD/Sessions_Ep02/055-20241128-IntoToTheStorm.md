@@ -2,10 +2,10 @@
 title: 055-20241128-IntoToTheStorm
 type: sesion
 world: Sword Coast
-characters: Aeyr, Fiona, Puss, Tia, Harkness
+characters: Aeyr, Fiona, Puss, Tia, Sashenstar
 date: 2024-11-28
 tags:
-  - TBD
+  - sailing
 ---
 
 ## Session Summary
